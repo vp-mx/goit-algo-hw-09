@@ -13,20 +13,20 @@
 
 #### Час виконання жадібного алгоритму:
 ```
-Amount:     100 - Time: 0.000017 seconds
-Amount:    1000 - Time: 0.000001 seconds
-Amount:   10000 - Time: 0.000001 seconds
-Amount:  100000 - Time: 0.000001 seconds
-Amount: 1000000 - Time: 0.000001 seconds
+Amount:     156 - Time: 0.000006 seconds
+Amount:    1923 - Time: 0.000002 seconds
+Amount:   12743 - Time: 0.000002 seconds
+Amount:  198754 - Time: 0.000001 seconds
+Amount: 1872402 - Time: 0.000001 seconds
 ```
 
 #### Час виконання алгоритму динамічного програмування:
 ```
-Amount:     100 - Time: 0.000057 seconds
-Amount:    1000 - Time: 0.000895 seconds
-Amount:   10000 - Time: 0.009867 seconds
-Amount:  100000 - Time: 0.110955 seconds
-Amount: 1000000 - Time: 1.110772 seconds
+Amount:     156 - Time: 0.000102 seconds
+Amount:    1923 - Time: 0.002198 seconds
+Amount:   12743 - Time: 0.015389 seconds
+Amount:  198754 - Time: 0.245726 seconds
+Amount: 1872402 - Time: 2.111985 seconds
 ```
 
 ## Висновки

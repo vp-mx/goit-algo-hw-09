@@ -65,7 +65,7 @@ def evaluate_efficiency() -> tuple[list[int], list[float], list[float]]:
 
     :return: A tuple containing the list of amounts, greedy times, and dynamic programming times.
     """
-    amounts = [100, 1000, 10000, 100000, 1000000]
+    amounts = [156, 1923, 12743, 198754, 1872402]
     greedy_times = [measure_time(find_coins_greedy, amt) for amt in amounts]
     dp_times = [measure_time(find_min_coins, amt) for amt in amounts]
     return amounts, greedy_times, dp_times
